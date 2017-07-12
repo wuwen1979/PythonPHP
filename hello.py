@@ -8,9 +8,9 @@ sayHello()
 
 def sayHi(x):
     if x=='dog':
-        print("wangwang!")
+        print("汪，汪!")
     elif x=='cat':
-        print("miao,miao")
+        print("喵,喵")
 sayHi('dog')
 
 def sayHi():
